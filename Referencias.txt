@@ -1,0 +1,3 @@
+Referencias
+
+https://discussions.udacity.com/t/sanity-checks-confidence-intervals-observed-values/27175/17
